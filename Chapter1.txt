@@ -1,0 +1,18 @@
+Karate DSL vs Rest Assured 
+Karate eat to use 
+use gherkin style 
+given when then
+Native JSON support 
+very powerful Json validations
+Can write code in Java and JavaScript 
+Rest on java
+Supports Parllel Execution busy rest does not directly 
+detailed reporting and logs
+
+Run performance Testing via Gatling
+
+Cons
+Own Karate scripting language rather than rest using Java
+it doesn't support intellisense
+difficult to find mistakes
+in code
