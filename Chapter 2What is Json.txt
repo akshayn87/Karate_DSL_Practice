@@ -1,0 +1,67 @@
+JSON stands for JavaScript Object Notification 
+Two types of Json
+JSON object {}
+JSON Array[]
+
+JSon Object 
+{
+"key1":"value1",
+"key2":"value2"
+}
+
+JSON Array 
+
+[
+"value1",
+"value2"
+]
+
+Structure 
+Simple object 
+
+Nested Json
+{
+"key1":"value1",
+"key2":"value2"
+}
+
+JSON Array 
+
+[
+"value1",
+"value2"
+]
+
+Structure 
+Simple object 
+
+Nested Json
+{
+"key1":
+     { "key2":"value2"}
+}
+
+Nested Array 
+
+{
+"key1":
+[
+"value1","value2"
+]
+}
+
+JSon Rray
+simple object 
+[
+"value1",
+"value2"
+]
+
+JSon Array 
+[
+"value1",
+"value2"
+]
+
+
+
